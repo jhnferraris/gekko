@@ -132,7 +132,7 @@ var plugins = [
     dependencies: [{
       module: 'nodejs-websocket',
       version: '1.6.0',
-    }],
+    }]
   }
 ];
 
